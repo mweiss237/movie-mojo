@@ -16,3 +16,29 @@
 .App-link {
   color: #09d3ac;
 }
+
+div.collectionWrapper {
+  width: 300px;
+  display: inline-block;
+}
+
+div.collection {
+  width: 150px;
+  height: 150px;
+  min-width: 150px;
+  display: contents;
+}
+
+img.previewImage {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding: 25px;
+}
+
+img.previewImage:hover{
+  width: 110px;
+  height: 110px;
+  padding: 5px;
+  padding-top: -5px;
+}
