@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Information
+
+This is my learning repository for React. I know it's called Movie Mojo but doesn't have to do anything with movies so far... so don't be confused!
+
 ## Available Scripts
 
 In the project directory, you can run:
